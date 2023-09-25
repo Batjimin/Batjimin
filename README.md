@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning ... REACT, FLUTTER
+[![코드트리|실력진단-jme0327](https://banner.codetree.ai/v1/banner/jme0327)](https://www.codetree.ai/profiles/jme0327)
 <!--
 **Batjimin/Batjimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
